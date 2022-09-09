@@ -45,11 +45,11 @@ a JS FullStack Developer specializing in Shopify, working on everything from sma
 ### Badges
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/ahmez-za" alt="ahmez-za's 42 stats" /></a>
+
+<a href="http://www.github.com/ahmedezzaouia"><img src="https://activity-graph.herokuapp.com/graph?username=ahmedezzaouia&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 <a href="https://app.daily.dev/ahmez_za"><img src="https://api.daily.dev/devcards/bcb490838b5d4e90be10e6e383606262.png?r=8c5" width="400" alt="Ahmed Ezzaouia's Dev Card"/></a>
 
 
 
-\
-
-<a href="http://www.github.com/ahmedezzaouia"><img src="https://activity-graph.herokuapp.com/graph?username=ahmedezzaouia&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
