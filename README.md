@@ -44,6 +44,9 @@ a JS FullStack Developer specializing in Shopify, working on everything from sma
 
 ### Badges
 
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/ahmez-za" alt="ahmez-za's 42 stats" /></a>
+<a href="https://app.daily.dev/ahmez_za"><img src="https://api.daily.dev/devcards/bcb490838b5d4e90be10e6e383606262.png?r=8c5" width="400" alt="Ahmed Ezzaouia's Dev Card"/></a>
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/ahmedezzaouia"><img src="https://github-readme-stats.vercel.app/api?username=ahmedezzaouia&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ahmedezzaouia's GitHub stats" /></a>
@@ -54,5 +57,3 @@ a JS FullStack Developer specializing in Shopify, working on everything from sma
 
 <a href="https://github.com/ahmedezzaouia" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedezzaouia&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>tps://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/ahmez-za" alt="ahmez-za's 42 stats" /></a>
-<a href="https://app.daily.dev/ahmez_za"><img src="https://api.daily.dev/devcards/bcb490838b5d4e90be10e6e383606262.png?r=8c5" width="400" alt="Ahmed Ezzaouia's Dev Card"/></a>
