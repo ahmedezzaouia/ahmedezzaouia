@@ -8,7 +8,7 @@ a JS FullStack Developer specializing in Shopify, working on everything from sma
 
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [contact@ahmez-za.com](mailto:contact@ahmez-za.com)
-
+* 🌐  Portfolio: [www.ahmez-za.com](https://www.ahmez-za.com) 🌟
 ### Skills
 
 <p align="left">
